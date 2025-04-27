@@ -1,1 +1,1 @@
-This is my first ever html project which is about newtons 3rd law of motion. it has clickable image and interconnected web pages. Hoping for a lot more better projects but learned quite many things from this project.
+This is my first ever html project which is about newtons 3rd law of motion. It has clickable image and interconnected web pages. Hoping for a lot more better projects but learned quite many things from this project.
